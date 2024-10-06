@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="308" lslib_meta="v1,bswap_guids" />
+	<region id="CompanionPresets">
+		<node id="root">
+			<children>
+        <!-- Scro --> 
+        <node id="CompanionPreset">
+          <attribute id="BodyShape" type="uint8" value="0"/>
+          <attribute id="BodyType" type="uint8" value="0"/>
+          <attribute id="CloseUpA" type="LSString" value="HUM_MB_Camera_CompanionCloseup_A"/>
+          <attribute id="CloseUpB" type="LSString" value="HUM_MB_Camera_CompanionCloseup_B"/>
+          <attribute id="Overview" type="LSString" value="HUM_MB_Camera_CompanionOverview_A"/>
+          <attribute id="RaceUUID" type="guid" value="bbdf9adb-92dd-4551-b5b3-a641e1fc4462"/>
+          <attribute id="RootTemplate" type="guid" value="7c6fef06-b0ec-42d0-80a0-3751a2daba6a"/>
+          <attribute id="SubRaceUUID" type="guid" value="40f0ce09-f4da-415d-873e-f0c2148fdfa0"/>
+          <attribute id="UUID" type="guid" value="7f5579b0-da7c-45af-8f44-178303dface3"/>
+          <attribute id="VoiceTableUUID" type="guid" value="60e91119-d07a-497a-8b3f-1cd88d3b464e"/>
+        </node>
+        <node id="CompanionPreset">
+          <attribute id="BodyShape" type="uint8" value="0"/>
+          <attribute id="BodyType" type="uint8" value="1"/>
+          <attribute id="CloseUpA" type="LSString" value="HUM_FB_Camera_CompanionCloseup_A"/>
+          <attribute id="CloseUpB" type="LSString" value="HUM_FB_Camera_CompanionCloseup_B"/>
+          <attribute id="Overview" type="LSString" value="HUM_FB_Camera_CompanionOverview_A"/>
+          <attribute id="RaceUUID" type="guid" value="bbdf9adb-92dd-4551-b5b3-a641e1fc4462"/>
+          <attribute id="RootTemplate" type="guid" value="a3eab43d-5697-41d4-ba80-b12acdfe63d4"/>
+          <attribute id="SubRaceUUID" type="guid" value="40f0ce09-f4da-415d-873e-f0c2148fdfa0"/>
+          <attribute id="UUID" type="guid" value="6db2fc88-3ecb-4919-933a-e1057b63ceb4"/>
+          <attribute id="VoiceTableUUID" type="guid" value="60e91119-d07a-497a-8b3f-1cd88d3b464e"/>
+        </node>
+			</children>
+		</node>
+	</region>
+</save>

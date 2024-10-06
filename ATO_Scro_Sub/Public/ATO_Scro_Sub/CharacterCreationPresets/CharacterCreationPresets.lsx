@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="47" lslib_meta="v1,bswap_guids" />
+	<region id="CharacterCreationPresets">
+		<node id="root">
+      <children>     
+        <!-- Scro -->
+        <node id="CharacterCreationPreset">
+          <attribute id="BodyShape" type="uint8" value="0"/>
+          <attribute id="BodyType" type="uint8" value="0"/>
+          <attribute id="CloseUpA" type="LSString" value="HUM_MB_Camera_Closeup_A"/>
+          <attribute id="CloseUpB" type="LSString" value="HUM_MB_Camera_Closeup_B"/>
+          <attribute id="Overview" type="LSString" value="HUM_MB_Camera_Overview_A"/>
+          <attribute id="RaceUUID" type="guid" value="bbdf9adb-92dd-4551-b5b3-a641e1fc4462"/>
+          <attribute id="RootTemplate" type="guid" value="d2f1c921-0dd8-4aba-8f6e-6af23de4fa6a"/>
+          <attribute id="SubRaceUUID" type="guid" value="40f0ce09-f4da-415d-873e-f0c2148fdfa0"/>
+          <attribute id="UUID" type="guid" value="6e91c087-1f9f-40b9-9b3a-9f7ec12a5f40"/>
+          <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
+        </node>
+        <node id="CharacterCreationPreset">
+          <attribute id="BodyShape" type="uint8" value="0"/>
+          <attribute id="BodyType" type="uint8" value="1"/>
+          <attribute id="CloseUpA" type="LSString" value="HUM_FB_Camera_Closeup_A"/>
+          <attribute id="CloseUpB" type="LSString" value="HUM_FB_Camera_Closeup_B"/>
+          <attribute id="Overview" type="LSString" value="HUM_FB_Camera_Overview_A"/>
+          <attribute id="RaceUUID" type="guid" value="bbdf9adb-92dd-4551-b5b3-a641e1fc4462"/>
+          <attribute id="RootTemplate" type="guid" value="b42c40b0-1607-4323-bde9-ca86a571b48f"/>
+          <attribute id="SubRaceUUID" type="guid" value="40f0ce09-f4da-415d-873e-f0c2148fdfa0"/>
+          <attribute id="UUID" type="guid" value="c19b0b00-dc97-4a8c-b64c-cd2cac0c0024"/>
+          <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e"/>
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

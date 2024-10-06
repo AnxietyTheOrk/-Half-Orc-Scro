@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="10" minor="0" revision="0" build="0" lslib_meta="v1,bswap_guids" />
+	<region id="Tags">
+		<node id="Tags">
+			<attribute id="Description" type="LSString" value="Character is really a Half-Scro" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="h942f97fbg1b68g4205gba8bg638677e437df" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="hc9837a21gd770g4dffg9ffcg78b5fa297720" version="2" />
+			<attribute id="Icon" type="FixedString" value="" />
+			<attribute id="Name" type="FixedString" value="REALLY_Scro" />
+			<attribute id="UUID" type="guid" value="db82c248-772f-4ce4-9f73-ba72533c7a03" />
+			<children>
+				<node id="Categories">
+					<children>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Code" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Dialog" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Race" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="PlayerRace" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

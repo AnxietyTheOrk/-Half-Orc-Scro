@@ -1,0 +1,8 @@
+new entry "ATO_SCRO_SPELL_RESISTANCE"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "h8d9c8c56g2ad0g445bg8b89g1d83bfb504fd;3"
+data "Description" "hfae13d66gc6d9g48abgb6edg6ca4f93dd253;2"
+data "Icon" "GenericIcon_Intent_Buff"
+data "Boosts" "IF(IsSpell()):Advantage(AllSavingThrows)"
+data "StatusPropertyFlags" ""

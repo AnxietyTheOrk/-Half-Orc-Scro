@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="330" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<!-- Scro -->
+				<node id="GameObjects">
+					<attribute id="ActiveCharacterLightID" type="FixedString" value="3f14f857-bd0f-4538-b059-9b18fb9af723" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="9ec94019-3f5c-3717-dc7d-92612431de15" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LightID" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="3f2cb8b2-9b56-4297-885b-25b0e18224ef" />
+					<attribute id="Name" type="LSString" value="BASE_Scro" />
+					<attribute id="Icon" type="FixedString" value="9ec94019-3f5c-3717-dc7d-92612431de15-_(Icon_HalfOrcs_Male)" />
+					<attribute id="ParentTemplateId" type="FixedString" value="5aa935d4-e614-414e-9cdf-ebe6a0389103" />
+					<attribute id="Race" type="guid" value="40f0ce09-f4da-415d-873e-f0c2148fdfa0" />
+					<attribute id="Stats" type="FixedString" value="HalfOrc_Melee" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
+					<children>
+						<node id="LocomotionParams" />
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="51de8d30-385f-fd31-2364-5acf5428baf8" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="0a79a905-d41f-401f-a0e4-a2401143fc17" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="d3116e58-c55a-4853-a700-bee996207397" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="2aaa82a1-2cc2-4edd-b761-66a1e042dbb1" />
+					<attribute id="EquipmentRace" type="guid" value="9ec94019-3f5c-3717-dc7d-92612431de15" />
+					<attribute id="GeneratePortrait" type="LSString" value="Icon_HalfOrcs_Male" />
+					<attribute id="Icon" type="FixedString" value="9ec94019-3f5c-3717-dc7d-92612431de15-_(Icon_HalfOrcs_Male)" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="4d96155c-1da8-4752-967e-42e9e040ea48" />
+					<attribute id="Name" type="LSString" value="BASE_Scro_Male" />
+					<attribute id="ParentTemplateId" type="FixedString" value="3f2cb8b2-9b56-4297-885b-25b0e18224ef" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209017" />
+					<children>
+						<node id="LocomotionParams" />
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="8f74d144-041e-4035-a9ac-72f41fc32de7" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="2aaa82a1-2cc2-4edd-b761-66a1e042dbb1" />
+					<attribute id="EquipmentRace" type="guid" value="6dd3db4f-e2db-4097-b82e-12f379f94c2e" />
+					<attribute id="Icon" type="FixedString" value="355b3b3c-cdae-8805-04dd-d6299920876f-_(Icon_HalfOrcs_Male)" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="d2f1c921-0dd8-4aba-8f6e-6af23de4fa6a" />
+					<attribute id="Name" type="LSString" value="Scro_Male_Player" />
+					<attribute id="ParentTemplateId" type="FixedString" value="4d96155c-1da8-4752-967e-42e9e040ea48" /> 
+					<attribute id="PortraitVisualResourceID" type="FixedString" value="cd67df82-8a06-2005-740f-9c7762097834" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
+					<attribute id="Stats" type="FixedString" value="HeroHalfOrcMale" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
+					<children>
+						<node id="LocomotionParams" />
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-ae64-9684d846eb83" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="AnimationSetResourceID" type="FixedString" value="d18acee9-efa1-2459-9f04-1b59742d0bff" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="2aaa82a1-2cc2-4edd-b761-66a1e042dbb1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="he58c25bcgf5c0g439bg9f20g650474f4b444" version="1" />
+					<attribute id="Equipment" type="FixedString" value="EQP_Daisy" />
+					<attribute id="Icon" type="FixedString" value="a4faeb04-33a7-ddee-ff77-ebf460eaf904-EQP_Daisy_(Icon_HalfOrcs_Male)" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="7c6fef06-b0ec-42d0-80a0-3751a2daba6a" />
+					<attribute id="Name" type="LSString" value="HalfOrcs_Male_Daisy" />
+					<attribute id="ParentTemplateId" type="FixedString" value="4d96155c-1da8-4752-967e-42e9e040ea48" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
+					<attribute id="Stats" type="FixedString" value="HeroHalfOrcMale" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+					<children>
+						<node id="LocomotionParams" />
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="6fe77279-1bba-5cc0-a5e0-34beabd2501d" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="9817eece-ccb2-7f70-ce27-1e10bf08efa5" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="807af8f5-0183-42d9-8d40-6e93d5236cc2" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="e23ab84d-f1eb-8b06-9df4-080ab173d5ba" />
+					<attribute id="EquipmentRace" type="guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" />
+					<attribute id="GeneratePortrait" type="LSString" value="Icon_HalfOrcs_Female" />
+					<attribute id="Icon" type="FixedString" value="e23ab84d-f1eb-8b06-9df4-080ab173d5ba-_(Icon_HalfOrcs_Female)" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="35d432be-2b5a-4c76-b674-736b9ebbf692" />
+					<attribute id="Name" type="LSString" value="BASE_Scro_Female" />
+					<attribute id="ParentTemplateId" type="FixedString" value="3f2cb8b2-9b56-4297-885b-25b0e18224ef" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+					<children>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="2" />
+									<attribute id="Max" type="fvec3" value="0.40751 1.93354 0.0630085" />
+									<attribute id="Min" type="fvec3" value="-0.40751 -0.00135875 -0.1058585" />
+									<attribute id="Radius" type="float" value="0.249" />
+									<attribute id="Shape" type="uint8" value="2" />
+									<attribute id="Type" type="uint8" value="0" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="2" />
+									<attribute id="Max" type="fvec3" value="0.81502 1.93354 0.126017" />
+									<attribute id="Min" type="fvec3" value="-0.81502 -0.00135875 -0.211717" />
+									<attribute id="Radius" type="float" value="0.2" />
+									<attribute id="Shape" type="uint8" value="2" />
+									<attribute id="Type" type="uint8" value="1" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="2" />
+									<attribute id="Max" type="fvec3" value="0.81502 1.93354 0.126017" />
+									<attribute id="Min" type="fvec3" value="-0.81502 -0.00135875 -0.211717" />
+									<attribute id="Radius" type="float" value="0.499" />
+									<attribute id="Shape" type="uint8" value="2" />
+									<attribute id="Type" type="uint8" value="2" />
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="3806477c-65a7-4100-9f92-be4c12c4fa4f" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="b6ae67c3-677e-41d7-a4c7-faa20dcaa25d" />
+					<attribute id="EquipmentRace" type="guid" value="eb81b1de-985e-4e3a-8573-5717dc1fa15c" />
+					<attribute id="Icon" type="FixedString" value="6bcf04be-942d-2980-2e59-089a5a6ba36e-_(Icon_HalfOrcs_Female)" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="b42c40b0-1607-4323-bde9-ca86a571b48f" />
+					<attribute id="Name" type="LSString" value="Scro_Female_Player" />
+					<attribute id="ParentTemplateId" type="FixedString" value="35d432be-2b5a-4c76-b674-736b9ebbf692" />
+					<attribute id="PortraitVisualResourceID" type="FixedString" value="1586dcb3-51ff-7489-bfa4-81263bf56686" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
+					<attribute id="Stats" type="FixedString" value="HeroHalfOrcFemale" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
+					<children>
+						<node id="LocomotionParams" />
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-f73c-9458b4f90b9f" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-ae64-9684d846eb83" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="AnimationSetResourceID" type="FixedString" value="b6ae67c3-677e-41d7-a4c7-faa20dcaa25d" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="9702283b-b072-9e09-e64f-d0bee5b8626d" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h2a56cc43g5032g492eg8affg90ee21133880" version="1" />
+					<attribute id="Equipment" type="FixedString" value="EQP_Daisy" />
+					<attribute id="Icon" type="FixedString" value="9702283b-b072-9e09-e64f-d0bee5b8626d-EQP_Daisy_(Icon_HalfOrcs_Female)" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="a3eab43d-5697-41d4-ba80-b12acdfe63d4" />
+					<attribute id="Name" type="LSString" value="HalfOrcs_Female_Daisy" />
+					<attribute id="ParentTemplateId" type="FixedString" value="35d432be-2b5a-4c76-b674-736b9ebbf692" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144818875517632512" />
+					<children>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="2" />
+									<attribute id="Max" type="fvec3" value="0.40751 1.93354 0.0630085" />
+									<attribute id="Min" type="fvec3" value="-0.40751 -0.00135875 -0.1058585" />
+									<attribute id="Radius" type="float" value="0.249" />
+									<attribute id="Shape" type="uint8" value="2" />
+									<attribute id="Type" type="uint8" value="0" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="2" />
+									<attribute id="Max" type="fvec3" value="0.81502 1.93354 0.126017" />
+									<attribute id="Min" type="fvec3" value="-0.81502 -0.00135875 -0.211717" />
+									<attribute id="Radius" type="float" value="0.2" />
+									<attribute id="Shape" type="uint8" value="2" />
+									<attribute id="Type" type="uint8" value="1" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="2" />
+									<attribute id="Max" type="fvec3" value="0.81502 1.93354 0.126017" />
+									<attribute id="Min" type="fvec3" value="-0.81502 -0.00135875 -0.211717" />
+									<attribute id="Radius" type="float" value="0.499" />
+									<attribute id="Shape" type="uint8" value="2" />
+									<attribute id="Type" type="uint8" value="2" />
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+						<node id="SpeakerGroupList">
+							<children>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="6fe77279-1bba-5cc0-a5e0-34beabd2501d" />
+								</node>
+								<node id="SpeakerGroup">
+									<attribute id="Object" type="guid" value="0b378e99-5830-da47-9614-7c4aae3a1e27" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="17c2405e-5771-4150-ad00-b1ef8d1dd5ae" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node> 
+            </children>
+		</node>
+	</region>
+</save>

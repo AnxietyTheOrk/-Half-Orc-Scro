@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="Progressions">
+    <node id="root">
+      <children>
+        <node id="Progression">
+          <attribute id="Boosts" type="LSString" value="ProficiencyBonus(Skill,Athletics)"/>
+          <attribute id="Level" type="uint8" value="1"/>
+          <attribute id="Name" type="LSString" value="Scro"/>
+          <attribute id="PassivesAdded" type="LSString" value="Darkvision;RelentlessEndurance"/>
+          <attribute id="ProgressionType" type="uint8" value="2"/>
+          <attribute id="TableUUID" type="guid" value="6538a383-7cbb-4265-a4b7-d28af025618f"/>
+          <attribute id="UUID" type="guid" value="fca2c27c-a997-4c9b-98a4-313b30ea38db"/>
+        </node>
+        <node id="Progression">
+          <attribute id="Boosts" type="LSString" value="SpellResistance(Resistant)"/>
+          <attribute id="Level" type="uint8" value="1"/>
+          <attribute id="Name" type="LSString" value="Scro"/>
+          <attribute id="ProgressionType" type="uint8" value="2"/>
+          <attribute id="TableUUID" type="guid" value="6538a383-7cbb-4265-a4b7-d28af025618f"/>
+          <attribute id="UUID" type="guid" value="5c378e10-fbcd-4f87-a19a-e0991071dd09"/>
+        </node>
+        <node id="Progression">
+          <attribute id="Boosts" type="LSString" value="Proficiency(Slings)"/>
+          <attribute id="Level" type="uint8" value="1"/>
+          <attribute id="Name" type="LSString" value="Scro"/>
+          <attribute id="ProgressionType" type="uint8" value="2"/>
+          <attribute id="TableUUID" type="guid" value="6538a383-7cbb-4265-a4b7-d28af025618f"/>
+          <attribute id="UUID" type="guid" value="e0cf25c3-2f24-4ce8-9d56-d3630b98c1e5"/>
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

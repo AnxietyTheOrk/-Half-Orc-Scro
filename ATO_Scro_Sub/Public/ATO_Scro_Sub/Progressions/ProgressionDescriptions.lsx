@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="ProgressionDescriptions">
+    <node id="root">
+      <children>
+        <node id="ProgressionDescription">
+          <attribute id="Description" type="TranslatedString" handle="h3c6f3af8g322eg476eg9ce5g90147ae33dd7" version="1"/>
+          <attribute id="DisplayName" type="TranslatedString" handle="hbd0c0ff7g523dg4242g8e2fg0ac8144f979e" version="1"/>
+          <attribute id="ProgressionTableId" type="guid" value="6538a383-7cbb-4265-a4b7-d28af025618f"/>
+          <attribute id="Type" type="FixedString" value="Scro"/>
+          <attribute id="UUID" type="guid" value="0bc3c875-e288-4f04-954b-e6c93b69bfb9"/>
+        </node>
+        <node id="ProgressionDescription">
+          <attribute id="Description" type="TranslatedString" handle="h379b9d9bgb1b2g40ddgb8bagae9ce243dcc3" version="2"/>
+          <attribute id="DisplayName" type="TranslatedString" handle="h10610632ga6adg4008g9f19gd91b9cbee9d4" version="1"/>
+          <attribute id="ExactMatch" type="FixedString" value="SpellResistance(Resistant)"/>
+          <attribute id="UUID" type="guid" value="9aeb75ac-2b39-44f0-a440-582fb3aa80e7"/>
+        </node>
+        <node id="ProgressionDescription">
+          <attribute id="Description" type="TranslatedString" handle="h3ecd94f3gc48eg4f3fgba38g7165bbb35c39" version="2"/>
+          <attribute id="DisplayName" type="TranslatedString" handle="hf6e6ebcdg7fd4g4813g97a8gd9bcd7fff818" version="1"/>
+          <attribute id="ExactMatch" type="FixedString" value="Proficiency(Slings)"/>
+          <attribute id="UUID" type="guid" value="93cd523a-356d-4825-a67e-38698ce8553d"/>
+        </node>
+      </children>
+    </node>
+  </region>
+</save>
